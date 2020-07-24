@@ -66,6 +66,10 @@ body {
   margin-top: 5px;
 }
 
+.question-form button:hover {
+  background-color: #1C3455;
+}
+
 .eight-ball img {
   height: 130px;
 }
